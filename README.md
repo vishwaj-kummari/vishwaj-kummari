@@ -10,7 +10,7 @@ B.Tech in Electronics & Communication Engineering (2026) Hyderabad
 - Data Visualization
 
 ### Projects
-📈 Neural Retail Dashboard  (Power BI)
+📈 Sales Analytics Dashboard  (Power BI)
 
 🏏 IPL Performance Dashboard (Excel)
 
