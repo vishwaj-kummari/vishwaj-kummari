@@ -10,11 +10,11 @@ B.Tech in Electronics & Communication Engineering (2026) Hyderabad
 - Data Visualization
 
 ### Projects
-📈 Sales Dashboard Analysis (Power BI)
+📈 Neural Retail Dashboard  (Power BI)
 
 🏏 IPL Performance Dashboard (Excel)
 
-👥 sales dashboard analysis (Excel)
+👥 Sales analytics Dashboard (Excel)
 
 ### Currently Looking For
 - Data Analyst Fresher Roles
