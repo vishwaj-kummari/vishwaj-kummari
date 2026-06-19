@@ -1,5 +1,6 @@
 # Hi, I'm Vishwaj 👋
 Aspiring Data Analyst
+
 B.Tech in Electronics & Communication Engineering (2026) Hyderabad
 
 ### Skills
